@@ -1,0 +1,35 @@
+commit d459e02de27af33eafca0bbb0f17cdf569545fd1
+Author: Kidus Zerihun <kiduszerihun@Kiduss-MacBook-Pro.local>
+Date:   Sun Nov 3 22:40:39 2024 -0500
+
+    finished implementing processText for wordCounter
+
+commit b85783c79c9e83b263e7bf04052a93d8e142bbe2
+Author: Kidus Zerihun <kiduszerihun@Kiduss-MacBook-Pro.local>
+Date:   Sun Nov 3 22:30:31 2024 -0500
+
+    finished successflly implementing EmptyFileException.java and InvalidStopwordException.java
+
+commit eb101f45f63ff797b1d87407e85893dfe631fec7
+Author: Kidus Zerihun <kiduszerihun@Kiduss-MacBook-Pro.local>
+Date:   Sun Nov 3 22:19:08 2024 -0500
+
+    finished successfully implementing TooSmallText.java
+
+commit 036dbc735b45d872cd5ad9821ff4175adc5edbd5
+Author: Kidus Zerihun <kidus.zerihun@gwmail.gwu.edu>
+Date:   Sun Nov 3 11:12:25 2024 -0500
+
+    Add files via upload
+
+commit 48aaa46ca3a51b6d36b869901f744e9a429bb175
+Author: Kidus Zerihun <kiduszerihun@Kiduss-MacBook-Pro.local>
+Date:   Wed Oct 23 15:48:46 2024 -0400
+
+    Lab Commit
+
+commit f6e550560552a9726a0e3c74bfb51c3913ba9b08
+Author: Kidus Zerihun <kidus.zerihun@gwmail.gwu.edu>
+Date:   Wed Oct 23 15:47:20 2024 -0400
+
+    Add files via upload
